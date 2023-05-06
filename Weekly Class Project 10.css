@@ -1,0 +1,6 @@
+.one{
+  font-style: italic;
+}
+.two{
+  flex-direction: column-reverse;
+}
